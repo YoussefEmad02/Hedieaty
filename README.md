@@ -4,7 +4,7 @@ Hedieaty is a gift list management app designed to streamline the process of cre
 
 ## Pages
 
-### 1. UI Layout and Design (Minimum 6 Pages)
+### 1. UI Layout and Design
 
 #### Home Page:
 - A list of friends displayed with their names and profile pictures.
